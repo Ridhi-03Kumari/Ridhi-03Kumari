@@ -36,7 +36,8 @@ Hi! I'm **Ridhi Kumari** 😊
 
 - 🤖 Artificial Intelligence & Machine Learning  
 - 🌍 Open Source Contributions  
-- 🧠 Learning new technologies step by step  
+- 🧠 Learning new technologies step by step
+  ![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 ---
 

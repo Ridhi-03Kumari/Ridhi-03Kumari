@@ -1,16 +1,9 @@
 # 👋 About Me
-<img align="right" alt="Girl Coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" alt="Coding Girl" width="200" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 Hi! I'm **Ridhi Kumari** 😊  
 🎓 **AI/ML 1st Year Student** at **Polaris School Of Technology**  
 🌱 Currently exploring **Open Source** and trying to contribute through **LFX** 
-
-
-
-
-
-
-
 ---
 
 ## 🌐 Connect With Me
@@ -37,7 +30,7 @@ Hi! I'm **Ridhi Kumari** 😊
 - 🤖 Artificial Intelligence & Machine Learning  
 - 🌍 Open Source Contributions  
 - 🧠 Learning new technologies step by step
-  ![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+  
 
 ---
 

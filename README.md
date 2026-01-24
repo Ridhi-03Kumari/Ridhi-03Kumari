@@ -1,5 +1,6 @@
 # 👋 About Me
-<img align="right" alt="Coding Girl" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+<img align="right" alt="Girl Coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+
 Hi! I'm **Ridhi Kumari** 😊  
 🎓 **AI/ML 1st Year Student** at **Polaris School Of Technology**  
 🌱 Currently exploring **Open Source** and trying to contribute through **LFX** 

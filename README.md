@@ -4,6 +4,8 @@ Hi! I'm **Ridhi Kumari** 😊
 🎓 **AI/ML 1st Year Student** at **Polaris School Of Technology**  
 🌱 Currently exploring **Open Source** and trying to contribute through **LFX**  
 
+https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXliaGh0bHVyeGF2MTV6bjJjdHVta3g1Y2c5N2Z0czFiMnJtcDBqcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PoHs1Ne8rcMuZRJted/giphy.gif
+
 ---
 
 ## 🌐 Connect With Me

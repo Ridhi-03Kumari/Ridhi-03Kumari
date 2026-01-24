@@ -5,6 +5,12 @@ Hi! I'm **Ridhi Kumari** 😊
 🎓 **AI/ML 1st Year Student** at **Polaris School Of Technology**  
 🌱 Currently exploring **Open Source** and trying to contribute through **LFX** 
 
+
+
+
+
+
+
 ---
 
 ## 🌐 Connect With Me

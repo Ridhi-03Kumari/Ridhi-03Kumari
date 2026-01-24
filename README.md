@@ -1,8 +1,5 @@
 # 👋 About Me
-<div align="center">
-  <img src="https://storyset.com/illustration/webinar/amico" width="300"/>
-</div>
-
+<img align="right" alt="Coding Girl" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 Hi! I'm **Ridhi Kumari** 😊  
 🎓 **AI/ML 1st Year Student** at **Polaris School Of Technology**  
 🌱 Currently exploring **Open Source** and trying to contribute through **LFX** 

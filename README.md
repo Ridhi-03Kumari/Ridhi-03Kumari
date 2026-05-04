@@ -7,7 +7,7 @@
   
 Hi! I'm **Ridhi Kumari** 😊  
 
-🎓 **AI/ML 1st Year Student** at **Polaris School Of Technology**  
+🎓 **AI/ML 1st Year Student**  
 🌱 Currently exploring **Open Source** and trying to contribute through **LFX**
 
 </div>

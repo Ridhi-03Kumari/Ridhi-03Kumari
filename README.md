@@ -10,7 +10,7 @@
 </div>
 
 <!-- ========================= ABOUT ========================= -->
-## 🚀 About Me
+##  About Me
 
 ```yaml
 name:        Ridhi Kumari
@@ -22,10 +22,10 @@ fun_fact:    I make hand-drawn flipbook animations when I'm not shipping code �
 currently:   LFX Mentorship (Kubescape) • Internship-level portfolio projects
 ```
 
-> 💜 I love turning hard concepts into simple ones — usually with a good analogy. I build things end-to-end, from the database all the way to deploy.
+>  I love turning hard concepts into simple ones — usually with a good analogy. I build things end-to-end, from the database all the way to deploy.
 
 <!-- ========================= TECH STACK ========================= -->
-## 🛠️ Tech Stack
+##  Tech Stack
 
 #### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -53,27 +53,27 @@ currently:   LFX Mentorship (Kubescape) • Internship-level portfolio projects
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <!-- ========================= OPEN SOURCE ========================= -->
-## 🌱 Open Source Contributions
+##  Open Source Contributions
 
 I'm an active contributor to the **cloud-native ecosystem**, with merged PRs across several CNCF and ledger projects:
 
 | Project | What I worked on |
 |---|---|
-| 🛡️ **[kubescape/kubescape](https://github.com/kubescape/kubescape)** | Bug fixes, refactors, race-condition fixes, unit tests, and a new OCI output mode |
-| 💧 **[fluid-cloudnative/fluid](https://github.com/fluid-cloudnative/fluid)** | CSI bug fix |
-| 🌪️ **[chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh)** | `context.TODO → context.Background` refactor |
-| 🔗 **[hiero-ledger/hiero-sdk-cpp](https://github.com/hiero-ledger/hiero-sdk-cpp)** | C++ SDK contributions |
+|  **[kubescape/kubescape](https://github.com/kubescape/kubescape)** | Bug fixes, refactors, race-condition fixes, unit tests, and a new OCI output mode |
+|  **[fluid-cloudnative/fluid](https://github.com/fluid-cloudnative/fluid)** | CSI bug fix |
+|  **[chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh)** | `context.TODO → context.Background` refactor |
+|  **[hiero-ledger/hiero-sdk-cpp](https://github.com/hiero-ledger/hiero-sdk-cpp)** | C++ SDK contributions |
 
 > Currently pursuing **LFX Mentorship (Term 2, 2026)** for CNCF Kubescape — built full Go PoCs for the CEL rule engine and the SecurityException CRD.
 
 <!-- ========================= PROJECTS ========================= -->
-## 🔭 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📝 Likho — Full-Stack Notes App
+###  Likho — Full-Stack Notes App
 Inline editing, search, tags, and dark mode.
 - **Stack:** Node.js · Express · MongoDB Atlas · React
 - **Deploy:** Railway (API) + Netlify (frontend)
@@ -81,7 +81,7 @@ Inline editing, search, tags, and dark mode.
 </td>
 <td width="50%" valign="top">
 
-### 📉 Customer Churn Prediction
+###  Customer Churn Prediction
 Interactive ML dashboard for churn analysis.
 - **Stack:** Python · scikit-learn · Streamlit
 - **Focus:** Internship-level portfolio project
@@ -91,7 +91,7 @@ Interactive ML dashboard for churn analysis.
 <tr>
 <td width="50%" valign="top">
 
-### 🛍️ Retail Purchase Behaviour Analysis
+###  Retail Purchase Behaviour Analysis
 RFM segmentation + KMeans clustering (k=4).
 - **Stack:** Plotly Dash · pandas · scikit-learn
 - **Data:** UCI Online Retail Dataset
@@ -99,7 +99,7 @@ RFM segmentation + KMeans clustering (k=4).
 </td>
 <td width="50%" valign="top">
 
-### 🏎️ Tarmo5 Performance Engineering
+###  Tarmo5 Performance Engineering
 Performance work for the Polaris Grand Prix EV racing team.
 - **Role:** Performance Engineer
 - **Focus:** Telemetry & optimization
@@ -109,7 +109,7 @@ Performance work for the Polaris Grand Prix EV racing team.
 </table>
 
 <!-- ========================= GITHUB STATS ========================= -->
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -123,7 +123,7 @@ Performance work for the Polaris Grand Prix EV racing team.
 </div>
 
 <!-- ========================= COMPETITIVE ========================= -->
-## 🧩 Competitive Programming
+##  Competitive Programming
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 ![CodeChef](https://img.shields.io/badge/CodeChef-ridhip25-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
@@ -131,7 +131,7 @@ Performance work for the Polaris Grand Prix EV racing team.
 Comfortable with DSA across binary trees, BSTs, recursion, two pointers, sliding window, stacks, queues, and sorting algorithms.
 
 <!-- ========================= CONNECT ========================= -->
-## 🤝 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -150,6 +150,6 @@ Comfortable with DSA across binary trees, BSTs, recursion, two pointers, sliding
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:9333EA,100:6D28D9&height=120&section=footer"/>
 
-<i>“Code thoda, creativity zyada.” 💜</i>
+<i>“Code thoda, creativity zyada.” </i>
 
 </div>

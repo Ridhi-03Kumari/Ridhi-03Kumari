@@ -83,7 +83,7 @@ Currently pursuing **LFX Mentorship (Term 2, 2026)** for CNCF Kubescape — buil
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ridhi-03Kumari&show_icons=true&hide_border=true&bg_color=00000000&title_color=7C3AED&icon_color=7C3AED&text_color=8B8B8B&include_all_commits=true&count_private=true&hide_rank=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ridhi-03Kumari&show_icons=true&hide_border=true&bg_color=00000000&title_color=7C3AED&icon_color=7C3AED&text_color=8B8B8B&count_private=true&hide_rank=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridhi-03Kumari&layout=compact&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=8B8B8B&langs_count=8" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ridhi-03Kumari&bg_color=00000000&color=7C3AED&line=7C3AED&point=EC4899&area=true&hide_border=true&height=280" width="95%"/>
